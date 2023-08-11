@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tbbfff
-- 👀 I’m interested in ... Games, Data Science and back end development
-- 🌱 I’m currently learning ... Programming in general
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Games, Data Science and back end development
+- 🌱 I’m currently learning Software engineering
+<!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ... tbrunobf@gmail.com
 
 <!---
